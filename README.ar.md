@@ -1,8 +1,8 @@
-dhiwise
+مصمم
 
 # DhiWise
 
-> DhiWise enables you to develop enterprise-grade applications in low-code and pro-code simultaneously.
+> يمكّنك DhiWise من تطوير تطبيقات على مستوى المؤسسات في التعليمات البرمجية المنخفضة والتعليمات البرمجية الاحترافية في وقت واحد.
 
 -   [مسرد](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
