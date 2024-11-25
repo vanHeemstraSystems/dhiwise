@@ -1,10 +1,10 @@
-存储库名称
+裁缝
 
-# 存储库名称
+# 迪威斯
 
-> 斯拉格莱恩
+> DhiWise 使您能够同时以低代码和专业代码开发企业级应用程序。
 
--   [词汇表](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
 -   [文档](./DOCUMENTATION.md)
 
