@@ -2,7 +2,7 @@
 
 # 迪威斯
 
-> DhiWise enables you to develop enterprise-grade applications in low-code and pro-code simultaneously.
+> DhiWise 讓您能夠同時以低程式碼和專業程式碼開發企業級應用程式。
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
@@ -10,9 +10,9 @@
 
 **執行摘要**
 
-All in hours, not weeks.
+一切只需幾小時，而不是幾週。
 
-## 100 - Introduction
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 
