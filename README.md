@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+dhiwise
+# DhiWise
 
-> Slugline
+> DhiWise enables you to develop enterprise-grade applications in low-code and pro-code simultaneously.
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
