@@ -1,8 +1,8 @@
-裁縫
+設計師
 
 # 迪威斯
 
-> DhiWise 讓您能夠同時以低程式碼和專業程式碼開發企業級應用程式。
+> DhiWise enables you to develop enterprise-grade applications in low-code and pro-code simultaneously.
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
@@ -10,9 +10,9 @@
 
 **執行摘要**
 
-文字
+All in hours, not weeks.
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
