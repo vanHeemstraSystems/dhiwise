@@ -1,4 +1,4 @@
-sastre
+diseñador
 
 # DhiWise
 
@@ -10,7 +10,7 @@ sastre
 
 **Resumen ejecutivo**
 
-Texto
+Todo en horas, no en semanas.
 
 ## 100 - Introducción
 
