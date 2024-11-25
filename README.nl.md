@@ -1,11 +1,11 @@
-repositorynaam
+kleermaker
 
-# Naam van opslagplaats
+# DhiWise
 
-> Slaklijn
+> DhiWise enables you to develop enterprise-grade applications in low-code and pro-code simultaneously.
 
 -   [Glossarium](./GLOSSARY.md)
--   [Referenties](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Documentatie](./DOCUMENTATION.md)
 
 **Samenvatting**
