@@ -1,8 +1,8 @@
-kleermaker
+ontwerper
 
 # DhiWise
 
-> DhiWise enables you to develop enterprise-grade applications in low-code and pro-code simultaneously.
+> Met DhiWise kunt u tegelijkertijd enterprise-grade applicaties ontwikkelen in low-code en pro-code.
 
 -   [Glossarium](./GLOSSARY.md)
 -   [References](./REFERENCES.md)
@@ -10,7 +10,7 @@ kleermaker
 
 **Samenvatting**
 
-Tekst
+Alles in uren, niet in weken.
 
 ## 100 - Inleiding
 
