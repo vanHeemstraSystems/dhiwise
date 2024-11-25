@@ -1,10 +1,10 @@
 भंडार-नाम
 
-# Repository Name
+# भंडार का नाम
 
 > स्लगलाइन
 
--   [शब्दकोष](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 
