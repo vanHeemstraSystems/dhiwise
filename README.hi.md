@@ -1,16 +1,16 @@
-डिजाइनर
+dhiwise
 
 # धीवाइज़
 
 > धीवाइज़ आपको कम-कोड और प्रो-कोड में एक साथ एंटरप्राइज़-ग्रेड एप्लिकेशन विकसित करने में सक्षम बनाता है।
 
--   [शब्दकोष](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 
-**कार्यकारी सारांश**
+**Executive Summary**
 
-All in hours, not weeks.
+सब कुछ घंटों में, हफ़्तों में नहीं।
 
 ## 100 - परिचय
 
@@ -24,6 +24,6 @@ All in hours, not weeks.
 
 देखना[README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
 देखना[README.md](./400/README.md)
