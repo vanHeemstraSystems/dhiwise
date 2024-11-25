@@ -2,7 +2,7 @@ diseñador
 
 # DhiWise
 
-> DhiWise le permite desarrollar aplicaciones de nivel empresarial en código bajo y código profesional simultáneamente.
+> DhiWise enables you to develop enterprise-grade applications in low-code and pro-code simultaneously.
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
