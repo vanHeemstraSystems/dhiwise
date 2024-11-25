@@ -1,8 +1,8 @@
-儲存庫名稱
+裁縫
 
-# 儲存庫名稱
+# 迪威斯
 
-> 斯拉格萊恩
+> DhiWise 讓您能夠同時以低程式碼和專業程式碼開發企業級應用程式。
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
@@ -26,4 +26,4 @@
 
 ## 400 - 結論
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
