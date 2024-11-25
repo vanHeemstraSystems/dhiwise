@@ -9,7 +9,7 @@ dhiwise
 
 **Executive Summary**
 
-Text
+All in hours, not weeks.
 
 ## 100 - Introduction
 
