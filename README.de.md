@@ -1,10 +1,10 @@
-Repository-Name
+Schneider
 
-# Repository-Name
+# DhiWise
 
-> Slugline
+> Mit DhiWise können Sie gleichzeitig Unternehmensanwendungen in Low-Code und Pro-Code entwickeln.
 
--   [Glossary](./GLOSSARY.md)
+-   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 
@@ -22,7 +22,7 @@ Sehen[README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
-See [README.md](./300/README.md)
+Sehen[README.md](./300/README.md)
 
 ## 400 – Fazit
 
