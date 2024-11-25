@@ -1,16 +1,16 @@
-خياط
+dhiwise
 
 # DhiWise
 
 > DhiWise enables you to develop enterprise-grade applications in low-code and pro-code simultaneously.
 
--   [Glossary](./GLOSSARY.md)
+-   [مسرد](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
 -   [التوثيق](./DOCUMENTATION.md)
 
 **ملخص تنفيذي**
 
-نص
+كل ذلك خلال ساعات وليس أسابيع.
 
 ## 100- مقدمة
 
@@ -24,6 +24,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
-See [README.md](./400/README.md)
+يرى[README.md](./400/README.md)
