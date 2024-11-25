@@ -1,16 +1,16 @@
-裁缝
+设计师
 
 # 迪威斯
 
 > DhiWise 使您能够同时以低代码和专业代码开发企业级应用程序。
 
--   [Glossary](./GLOSSARY.md)
+-   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
 -   [文档](./DOCUMENTATION.md)
 
 **执行摘要**
 
-文本
+一切只需几小时，而不是几周。
 
 ## 100 - 简介
 
