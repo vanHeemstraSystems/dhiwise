@@ -10,7 +10,7 @@ Designer
 
 **Zusammenfassung**
 
-Alles in Stunden, nicht in Wochen.
+All in hours, not weeks.
 
 ## 100 - Einführung
 
