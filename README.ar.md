@@ -1,10 +1,10 @@
-اسم المستودع
+خياط
 
-# اسم المستودع
+# DhiWise
 
-> سلوجلاين
+> DhiWise enables you to develop enterprise-grade applications in low-code and pro-code simultaneously.
 
--   [مسرد](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
 -   [التوثيق](./DOCUMENTATION.md)
 
@@ -24,6 +24,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخاتمة
+## 400 - Conclusion
 
-يرى[README.md](./400/README.md)
+See [README.md](./400/README.md)
