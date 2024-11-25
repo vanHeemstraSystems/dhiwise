@@ -1,8 +1,8 @@
-nombre-repositorio
+sastre
 
-# Nombre del repositorio
+# DhiWise
 
-> línea de bala
+> DhiWise le permite desarrollar aplicaciones de nivel empresarial en código bajo y código profesional simultáneamente.
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
@@ -22,7 +22,7 @@ Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-See [README.md](./300/README.md)
+Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
