@@ -1,4 +1,4 @@
-Schneider
+Designer
 
 # DhiWise
 
@@ -10,7 +10,7 @@ Schneider
 
 **Zusammenfassung**
 
-Text
+Alles in Stunden, nicht in Wochen.
 
 ## 100 - Einführung
 
@@ -20,7 +20,7 @@ Sehen[README.md](./100/README.md)
 
 Sehen[README.md](./200/README.md)
 
-## 300 – Erstellen unserer Anwendung
+## 300 - Building Our Application
 
 Sehen[README.md](./300/README.md)
 
