@@ -5,7 +5,7 @@ ontwerper
 > Met DhiWise kunt u tegelijkertijd enterprise-grade applicaties ontwikkelen in low-code en pro-code.
 
 -   [Glossarium](./GLOSSARY.md)
--   [References](./REFERENCES.md)
+-   [Referenties](./REFERENCES.md)
 -   [Documentatie](./DOCUMENTATION.md)
 
 **Samenvatting**
