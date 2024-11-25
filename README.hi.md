@@ -2,7 +2,7 @@
 
 # धीवाइज़
 
-> धीवाइज़ आपको कम-कोड और प्रो-कोड में एक साथ एंटरप्राइज़-ग्रेड एप्लिकेशन विकसित करने में सक्षम बनाता है।
+> DhiWise enables you to develop enterprise-grade applications in low-code and pro-code simultaneously.
 
 -   [शब्दकोष](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
