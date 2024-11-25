@@ -4,7 +4,7 @@ ontwerper
 
 > Met DhiWise kunt u tegelijkertijd enterprise-grade applicaties ontwikkelen in low-code en pro-code.
 
--   [Glossarium](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
 -   [Documentatie](./DOCUMENTATION.md)
 
@@ -12,7 +12,7 @@ ontwerper
 
 Alles in uren, niet in weken.
 
-## 100 - Inleiding
+## 100 - Introduction
 
 Zien[README.md](./100/README.md)
 
@@ -26,4 +26,4 @@ Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
-Zien[README.md](./400/README.md)
+See [README.md](./400/README.md)
